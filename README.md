@@ -1,5 +1,7 @@
-# Full Data Recovery after Task-specific Semantic Communication
 
+# Code for paper Semantic Communication for Task Execution and Data Reconstruction in Multi-User Scenarios
+
+If you use this code, please cite []
 This repository implements a hybrid semantic communication framework that enables both semantic classification and high-fidelity image reconstruction in distributed multi-agent systems using neural network-based encoders and decoders.
 
 ## 📚 Overview
